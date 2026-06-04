@@ -1,0 +1,9 @@
+streamlit==1.46.0
+python-dotenv==1.1.0
+pydantic==2.11.5
+torch==2.8.0
+torchaudio==2.8.0
+torchcodec==0.7.0
+pyannote.audio==4.0.4
+faster-whisper==1.2.1
+openai>=1.100.0
